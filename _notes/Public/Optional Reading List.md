@@ -6,4 +6,4 @@ permalink: /optional-reading-list
 ---
 
 Atlassian: [DevOps metrics. Why, what, and how to measure success in DevOps.](https://www.atlassian.com/devops/frameworks/devops-metrics)
-Atlassian:[Continuous Delivery: Business Value, Benefits, Challenges & Metrics](https://www.atlassian.com/continuous-delivery/principles/business-value)
+Atlassian: [Continuous Delivery: Business Value, Benefits, Challenges & Metrics](https://www.atlassian.com/continuous-delivery/principles/business-value)
