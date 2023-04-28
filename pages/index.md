@@ -4,5 +4,5 @@
 
 layout: Post
 permalink: /
-title: {{ site.me.name }}, {{ site.me.position }}
+title: Illia Ilin, A creative DevOps engineer
 ---
