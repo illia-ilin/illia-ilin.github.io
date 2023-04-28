@@ -10,6 +10,7 @@ permalink: /diary-of-devops-day-00012
 - Watch: [CI/CD concepts and best practices](https://www.youtube.com/watch?v=xSv_m3KhUO8)
 
 ### Current progress
+
 Task | Type | Progress
 --- | --- | ---:
 "The Phoenix Project" | book | 3/35 chapters, 8%
