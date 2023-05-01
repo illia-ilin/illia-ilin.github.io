@@ -18,11 +18,13 @@ Here's a 30-day learning plan to help you learn and improve your DevOps skills, 
 
 #### **Day 2: Continuous Integration & Continuous Deployment (CI/CD)**
 - Read: [Introduction to CI/CD](https://www.atlassian.com/continuous-delivery/principles)
-- Watch: [CI/CD concepts and best practices](https://www.youtube.com/watch?v=xSv_m3KhUO8)
+- Watch: [CI/CD concepts and best practices](https://www.youtube.com/watch?v=xSv_m3KhUO8) (unavailable)
+**UPD:** the original video "Professional Guides: Continuous Integration Continuous Delivery" was removed from YouTube. It was the video from GitHub Training & Guides in April 6, 2017. I found the copy at [the link](https://www.youtube.com/watch?v=NvAIvqtqXu4).
 
 #### **Day 3: Infrastructure as Code (IaC)**
-- Read: [Introduction to IaC](https://www.infoworld.com/article/3270636/what-is-infrastructure-as-code-iac.html)
+- Read: [Introduction to IaC](https://www.infoworld.com/article/3270636/what-is-infrastructure-as-code-iac.html) (unavailable)
 - Practice: [Create a simple infrastructure using Terraform](https://learn.hashicorp.com/tutorials/terraform/infrastructure-as-code)
+**UPD:** I suggest for practicing to use the another similar link from HashiCorp - [Create a simple infrastructure using Terraform](https://developer.hashicorp.com/terraform/tutorials/docker-get-started/infrastructure-as-code) - it's focusing on a Docker usage, instead of an example, related to AWS.
 
 #### **Day 4: Configuration Management**
 - Read: [Introduction to Configuration Management](https://www.redhat.com/en/topics/automation/what-is-configuration-management)
@@ -167,3 +169,5 @@ These books cover a range of topics, from DevOps principles and practices to spe
 ---
 
 P.S. I've updated some results from ChatGPT with helpful links and some formatting for more comfortable using.
+
+Tags: #ChatGPT, #DevOps, #learning

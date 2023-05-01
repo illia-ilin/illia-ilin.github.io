@@ -2,12 +2,13 @@
 title: Diary of DevOps. Day 0002
 feed: show
 date: 28-04-2023
-permalink: /diary-of-devops-day-00012
+permalink: /diary-of-devops-day-0002
 ---
 
 #### **Day 2: Continuous Integration & Continuous Deployment (CI/CD)**
 - Read: [Introduction to CI/CD](https://www.atlassian.com/continuous-delivery/principles)
 - Watch: [CI/CD concepts and best practices](https://www.youtube.com/watch?v=xSv_m3KhUO8)
+**UPD:** the original video "Professional Guides: Continuous Integration Continuous Delivery" was removed from YouTube. It was the video from GitHub Training & Guides in April 6, 2017. I found the copy at [the link](https://www.youtube.com/watch?v=NvAIvqtqXu4).
 
 #### 8 Key Continuous Delivery Principles
 According to the Atlassian article ["Introduction to CI/CD"](https://www.atlassian.com/continuous-delivery/principles), there are 8 principles of continuous delivery:
@@ -32,9 +33,8 @@ My friend Misha told me a story about her friend, who wrote a list of things he 
 
 Task | Type | Progress
 --- | --- | ---:
-"The Phoenix Project" | book | 3/35 chapters, 8%
+"The Phoenix Project" | book | 3/35 chapters, 9%
 "The DevOps Handbook" | book | 3%
 AWS Cloud Quest | course | 3/12 assigments, 25%
 
-
-
+Tags: #cicd
