@@ -29,6 +29,7 @@ Here's a 30-day learning plan to help you learn and improve your DevOps skills, 
 #### **Day 4: Configuration Management**
 - Read: [Introduction to Configuration Management](https://www.redhat.com/en/topics/automation/what-is-configuration-management)
 - Practice: [Set up and use Ansible for configuration management](https://www.ansible.com/resources/get-started)
+**UPD:** The link for practice is for Ansible Automation Platform, which is a commercial, enterprise-grade solution built on top of the open-source Ansible project. So I recommend to start from the [Ansible community documentation](https://docs.ansible.com/). Also, I started to practice with ["Ansible for DevOps. Server and configuration management for humans"](https://leanpub.com/ansible-for-devops) by [Jeff Geerling](https://leanpub.com/u/geerlingguy).
 
 #### **Day 5: Version Control**
 - Read: [Git Branching and Merging Strategies](https://www.atlassian.com/git/tutorials/comparing-workflows)

@@ -24,7 +24,7 @@ And, by the way, after 6% of "The Phoenix Project" became more interesting. Also
 
 Also, I don't know for sure, if this book is comfortable for complete newcomers, but I will post the review later.
 
-Also, the day before I started the Diary of DevOps, I've started to take part in the [AWS Cloud Quest](https://cloudquest.skillbuilder.aws/). It's a game-like platform for learning AWS. I will give it a try. And if I do 12 assigments till June 30, I get 25% discounton Cloud Practitioner Certification Exam.
+Also, the day before I started the Diary of DevOps, I've started to take part in the [[AWS Cloud Quest]]. It's a game-like platform for learning AWS. I will give it a try. And if I do 12 assigments till June 30, I get 25% discounton Cloud Practitioner Certification Exam.
 
 #### Current progress
 
