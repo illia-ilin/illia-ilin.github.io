@@ -6,6 +6,7 @@ permalink: /awesome-lists-for-devops
 ---
 
 I've made a list of helpful repositories (awesome-lists) about different topics, related to DevOps and sorted them from the most popular to the less popular (by stars).
+
 | Repo | Description |
 | --- | --- |
 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs |
