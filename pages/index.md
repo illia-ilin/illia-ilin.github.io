@@ -4,5 +4,5 @@
 
 layout: Post
 permalink: /
-title: Illia Ilin, A creative DevOps engineer
+title: DevOps Discoverer. Unearthing the Synergy of Technology, Creativity & Human Connection
 ---
