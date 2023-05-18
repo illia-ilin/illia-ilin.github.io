@@ -67,6 +67,7 @@ I've made a list of helpful repositories (awesome-lists) about different topics,
 | [joubertredrat/awesome-devops](https://github.com/joubertredrat/awesome-devops) | This is my awesome list with all open source and free applications that you can use in your management |
 | [Hiflylabs/awesome-dbt](https://github.com/Hiflylabs/awesome-dbt) | A curated list of awesome dbt resources  |
 | [awesome-soft/awesome-devops](https://github.com/awesome-soft/awesome-devops) | A curated list of awesome softwares for Devops. |
+| [Asgoret/devops_chats](https://github.com/Asgoret/devops_chats) | Repository of DevOps (RUS) chats in Telegram |
 | [shospodarets/awesome-platform-engineering](https://github.com/shospodarets/awesome-platform-engineering) | Curated list of tools and resources for Platform Engineering |
 | [nemonik/hands-on-DevOps-gen2](https://github.com/nemonik/hands-on-DevOps-gen2) | The new home of the second edition of my hands-on DevOps course building upon https://github.com/nemonik/hands-on-DevOps |
 | [devops-ru/awesome-devops_ru](https://github.com/devops-ru/awesome-devops_ru) | Roadmap по материалам о DevOps, помогающим его понять, осмыслить и принять |
